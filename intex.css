@@ -17,14 +17,14 @@
     justify-content: space-around;
     align-items: start;
     
-    color: black;
+    color: white;
 }
 a{
     text-decoration: none;
-    color: black;
+    color: wheat;
 }
 .homebox{
-    color: black;
+    color: wheat;
 }
 .about{
     width:100% ;
@@ -33,7 +33,7 @@ a{
     
 }
 .aboutbox{
-    color: black;
+    color: wheat;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -41,7 +41,7 @@ a{
 
 }
 .skillbox{
-    color: black;
+    color: wheat;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -63,7 +63,7 @@ a{
     
 }
 .contactbox{
-    color: black;
+    color: wheat;
     display: flex;
     justify-content: space-around;
     align-items: center;
